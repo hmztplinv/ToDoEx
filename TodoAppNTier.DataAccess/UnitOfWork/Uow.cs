@@ -13,7 +13,7 @@ public class Uow : IUow
         return new Repository<T>(_context);
     }
 
-    public async Task SaveChangesAsync()
+    public async Task SaveChanges()
     {
         await _context.SaveChangesAsync();
     }

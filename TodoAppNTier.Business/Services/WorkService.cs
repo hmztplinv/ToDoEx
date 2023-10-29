@@ -7,6 +7,16 @@ public class WorkService : IWorkService
         _uow = uow;
     }
 
+    public async Task CreateAsync(WorkCreateDto dto)
+    {
+        await _uow.GetRepository<Work>().CreateAsync(new Work
+        {
+            Definition = dto.Definition,
+            IsCompleted = dto.IsCompleted
+        });
+        await _uow.SaveChanges();
+    }
+
     public async Task<List<WorkListDto>> GetAllAsync()
     {
         var works = await _uow.GetRepository<Work>().GetAllAsync();
@@ -31,5 +41,46 @@ public class WorkService : IWorkService
         //     Definition = x.Definition,
         //     IsCompleted = x.IsCompleted
         // }).ToList();
+    }
+
+    public async Task<WorkListDto?> GetByIdAsync(int id)
+    {
+        var work = await _uow.GetRepository<Work>().GetByIdAsync(id);
+        if (work == null)
+        {
+            return null;
+        }
+
+        return new WorkListDto
+        {
+            Id = work.Id,
+            Definition = work.Definition,
+            IsCompleted = work.IsCompleted
+        };
+    }
+
+    public async Task Remove(object id)
+    {
+        var work = await _uow.GetRepository<Work>().GetByIdAsync(id);
+        if (work == null)
+        {
+            return;
+        }
+
+        _uow.GetRepository<Work>().Remove(work);
+        await _uow.SaveChanges();
+    }
+
+    public async Task Update(WorkUpdateDto dto)
+    {
+        var work = await _uow.GetRepository<Work>().GetByIdAsync(dto.Id);
+        if (work == null)
+        {
+            return;
+        }
+
+        work.Definition = dto.Definition;
+        work.IsCompleted = dto.IsCompleted;
+        await _uow.SaveChanges();
     }
 }
