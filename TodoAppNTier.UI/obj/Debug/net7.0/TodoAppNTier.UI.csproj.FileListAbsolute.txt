@@ -76,3 +76,7 @@ C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\refint\Todo
 C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\TodoAppNTier.UI.pdb
 C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\TodoAppNTier.UI.genruntimeconfig.cache
 C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\ref\TodoAppNTier.UI.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\bin\Debug\net7.0\package-lock.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\bin\Debug\net7.0\package.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\TodoAppNTier.UI.RazorAssemblyInfo.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.UI\obj\Debug\net7.0\TodoAppNTier.UI.RazorAssemblyInfo.cs
