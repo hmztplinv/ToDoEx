@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TodoAppNTier.DataAccess\TodoAppNTier.DataAccess.csproj" />
+    <ProjectReference Include="..\TodoAppNTier.Dtos\TodoAppNTier.Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

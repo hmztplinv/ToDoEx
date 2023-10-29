@@ -1,0 +1,12 @@
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\bin\Debug\net7.0\TodoAppNTier.Entities.deps.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\bin\Debug\net7.0\TodoAppNTier.Entities.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\bin\Debug\net7.0\TodoAppNTier.Entities.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\refint\TodoAppNTier.Entities.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\TodoAppNTier.Entities.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Entities\obj\Debug\net7.0\ref\TodoAppNTier.Entities.dll

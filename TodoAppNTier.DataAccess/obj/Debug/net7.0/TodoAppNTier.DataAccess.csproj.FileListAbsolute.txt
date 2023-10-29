@@ -1,0 +1,17 @@
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.DataAccess.deps.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.DataAccess.runtimeconfig.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.DataAccess.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.DataAccess.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.Entities.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\bin\Debug\net7.0\TodoAppNTier.Entities.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.csproj.CopyComplete
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\refint\TodoAppNTier.DataAccess.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\TodoAppNTier.DataAccess.genruntimeconfig.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.DataAccess\obj\Debug\net7.0\ref\TodoAppNTier.DataAccess.dll

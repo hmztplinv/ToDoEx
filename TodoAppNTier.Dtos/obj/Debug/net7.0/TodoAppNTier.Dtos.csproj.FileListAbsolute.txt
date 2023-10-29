@@ -1,0 +1,12 @@
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\bin\Debug\net7.0\TodoAppNTier.Dtos.deps.json
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\bin\Debug\net7.0\TodoAppNTier.Dtos.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\bin\Debug\net7.0\TodoAppNTier.Dtos.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.csproj.AssemblyReference.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.AssemblyInfoInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.AssemblyInfo.cs
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\refint\TodoAppNTier.Dtos.dll
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\TodoAppNTier.Dtos.pdb
+C:\Users\hmztp\Desktop\TodoAppNTier\TodoAppNTier.Dtos\obj\Debug\net7.0\ref\TodoAppNTier.Dtos.dll
