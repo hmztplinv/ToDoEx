@@ -9,7 +9,7 @@ public static class DependencyExtension
         {
             options.UseSqlServer("Server=localhost;Database=TodoAppDb;Trusted_Connection=True;TrustServerCertificate=true;");
         });
-        // services.AddScoped<IWorkDal, EfWorkDal>();
-        // services.AddScoped<IWorkService, WorkManager>();
+        services.AddScoped(typeof(IUow), typeof(Uow));
+        services.AddScoped(typeof(IWorkService), typeof(WorkService));
     }
 }
